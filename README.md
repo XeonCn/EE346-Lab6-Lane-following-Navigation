@@ -7,7 +7,7 @@ Intrinsic matrix Camera Calibration YAML is in calibration folder
 
 1. Remote PC  
 
-'roscore'
+`roscore`
 
 2. SBC  
 
@@ -24,12 +24,12 @@ Intrinsic matrix Camera Calibration YAML is in calibration folder
 'roslaunch turtlebot3_autorace_camera turtlebot3_autorace_intrinsic_camera_calibration.launch'  
 
 * Check images  
-* 
+
 'rqt_image_view'  
 
 * Reduce ISO to reduce image stroboflash  
-* 
-'rosrun rqt_reconfigure rqt_reconfigure'  
+
+`rosrun rqt_reconfigure rqt_reconfigure`  
 
 4. Run the lane follower  
 
