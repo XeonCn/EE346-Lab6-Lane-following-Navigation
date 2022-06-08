@@ -43,7 +43,7 @@ Intrinsic matrix Camera Calibration YAML is in calibration folder
 
         roslaunch turtlebot3_bringup turtlebot3_robot.launch  
 
-2. Remote PC  
+2. Remote PC, map3.pgm and map3.yaml should be placed in /home
 
         roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map3.yaml  
 
