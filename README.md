@@ -7,7 +7,7 @@ Intrinsic matrix Camera Calibration YAML is in calibration folder
 
 1. Remote PC  
 
-    `roscore`
+      `roscore`
 
 2. SBC  
 
